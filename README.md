@@ -2,7 +2,7 @@
 Command version of google font to local.
 
 ## Usage
-As everyone knows that people in China cannot access Google and its other domain. This's a desktop application to download google fonts to local.
+As everyone knows that people in China cannot access Google and its other domain. This's a command application to download google fonts to local.
 
 It has GUI version [here][] build by electron.
 
