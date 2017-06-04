@@ -1,0 +1,40 @@
+{
+  "name": "google-fonter-cmd",
+  "version": "1.0.0",
+  "description": "download google font to local",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "commander": "^2.9.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "yargs": "^8.0.1"
+  },
+  "bin": {
+    "gfc": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirius1024/google-fonter-cmd.git"
+  },
+  "keywords": [
+    "google",
+    "font",
+    "node.js",
+    "node",
+    "sirius"
+  ],
+  "author": "sirius <cealer@foxmail.com>",
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirius1024/google-fonter-cmd/issues"
+  },
+  "homepage": "https://github.com/sirius1024/google-fonter-cmd#readme"
+}
